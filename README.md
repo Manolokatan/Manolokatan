@@ -13,6 +13,10 @@ models and small tools that people actually use.
 | [**israel-permit-pipeline**](https://github.com/Manolokatan/israel-permit-pipeline) | Six-stage ETL pipeline over Israeli municipal building permits: 33,811 requests across 38 cadastral blocks → 1,536 commercial/industrial → parcel-level building-rights utilization | Python, Playwright, pandas, regex, GIS |
 | [**parking-perry**](https://github.com/Manolokatan/parking-perry) | Shared-car location tracker. Started as a WhatsApp Business API bot and pivoted to a free PWA after a unit-economics check on per-message fees | Flask, PostgreSQL, JavaScript PWA, Meta Graph API |
 
+<sub>Project pages are overviews; source code is private and available on request.</sub>
+
+Source code for these projects is private and available on request.
+
 ### Skills
 
 **Data & analytics:** SQL · Python (pandas, NumPy, scikit-learn, statsmodels) · Power BI · econometric regression · hypothesis testing
